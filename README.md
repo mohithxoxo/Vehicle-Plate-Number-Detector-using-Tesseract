@@ -1,4 +1,5 @@
-Vehicle Number Plate auto-croper + Number Detector using tesseract-OCR backend
+Vehicle Plate Number Detection 
+Descpition : Plate Number Auto-Croper + Number Detector using tesseract-OCR backend
 
 
 1) Libraries required : cv2 , imutils , pytesseract , numpy.
